@@ -1,0 +1,21 @@
+# Node modules
+node_modules/
+
+# Archivos de entorno
+.env
+.pem
+# Logs
+logs/
+*.log
+
+# Compilaciones y dependencias
+dist/
+build/
+
+# Configuración local de editor
+.vscode/
+.idea/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db

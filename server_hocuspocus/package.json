@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@hocuspocus/extension-logger": "^3.4.0",
+    "@hocuspocus/server": "^3.4.0"
+  }
+}
